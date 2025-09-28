@@ -1,0 +1,11 @@
+[TYPE] NUCLEOTIDE 2
+[MODEL] modelname
+[submodel] GTR 0.443757853 0.084329474 0.115502265 0.107429571 0.000270340
+[indelmodel] POW 1.7 500
+[indelrate] 0.0
+[rates] 0.0 99.852225 4
+[statefreq] 0.369764 0.165546 0.306709 0.157981
+[TREE] treename (((B:0.0866176,A:0.0800815):0.0998566,G:0.083187):0.0979589,(F:0.0910365,(E:0.0755358,(D:0.076612,C:0.0792293):0.0998758):0.0936603):0.085534);
+[PARTITIONS] partitionname
+[treename modelname 77]
+[EVOLVE] partitionname 1 outputname1 

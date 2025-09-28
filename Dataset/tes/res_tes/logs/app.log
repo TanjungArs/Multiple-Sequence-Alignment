@@ -1,0 +1,1070 @@
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:44 msa_bias_corrector INFO     Maximal sequence length for model dif: 38
+2025-09-27 11:37:44 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 38
+2025-09-27 11:37:44 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:44 msa_bias_corrector INFO     Maximal sequence length for model dif: 12
+2025-09-27 11:37:44 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 12
+2025-09-27 11:37:44 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:44 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:44 msa_bias_corrector INFO     Maximal sequence length for model dif: 42
+2025-09-27 11:37:44 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 42
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 11
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 11
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 19
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 19
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 28
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 28
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 54
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 54
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 19
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 19
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 28
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 28
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 13
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 13
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 28
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 28
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 25
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 25
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 27
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 27
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 27
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 27
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 33
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 33
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 27
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 27
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 23
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 23
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 63
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 63
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:45 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:45 msa_bias_corrector INFO     Maximal sequence length for model dif: 8
+2025-09-27 11:37:45 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 8
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 33
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 33
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 67
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 67
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 31
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 31
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 43
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 43
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 27
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 27
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 17
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 17
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 41
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 41
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 43
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 43
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 22
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 22
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 24
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 24
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 23
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 23
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 21
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 21
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 28
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 28
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 66
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 66
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 37
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 37
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 16
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 16
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:46 msa_bias_corrector INFO     Maximal sequence length for model dif: 35
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 35
+2025-09-27 11:37:46 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:46 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 45
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 45
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 79
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 79
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 50
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 50
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 19
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 19
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 31
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 31
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 56
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 56
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 25
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 25
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 37
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 37
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 37
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 37
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 22
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 22
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 50
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 50
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 33
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 33
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 24
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 24
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 42
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 42
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 21
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 21
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 12
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 12
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 43
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 43
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 37
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 37
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:47 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:47 msa_bias_corrector INFO     Maximal sequence length for model dif: 11
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 11
+2025-09-27 11:37:47 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 16
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 16
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 42
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 42
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 39
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 39
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 34
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 34
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 31
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 31
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 41
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 41
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 44
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 44
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 38
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 38
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 13
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 13
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 19
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 19
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 17
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 17
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 28
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 28
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 22
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 22
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 43
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 43
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 14
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 14
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 33
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 33
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 70
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 70
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 43
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 43
+2025-09-27 11:37:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:48 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 77
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 77
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 24
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 24
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 45
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 45
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 91
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 91
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 22
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 22
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 18
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 18
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 53
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 53
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 25
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 25
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 30
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 30
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 44
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 44
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 47
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 47
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 47
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 47
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 13
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 13
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 37
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 37
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 35
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 35
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 30
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 30
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 35
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 35
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 46
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 46
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:49 msa_bias_corrector INFO     Maximal sequence length for model dif: 29
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 29
+2025-09-27 11:37:49 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:49 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 40
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 40
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 30
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 30
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 22
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 22
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 43
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 43
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 79
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 79
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 70
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 70
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 49
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 49
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 41
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 41
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 16
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 16
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 25
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 25
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 82
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 82
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 30
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 30
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 111
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 111
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 51
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 51
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /input/res_tes/_dif.conf. Based on /app/sparta_conf_template.conf
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO     ran /app/SpartaABC, conf_path=/input/res_tes/_dif.conf, stat=0
+2025-09-27 11:37:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2025-09-27 11:37:50 msa_bias_corrector INFO     Maximal sequence length for model dif: 50
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 50
+2025-09-27 11:37:50 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 1
