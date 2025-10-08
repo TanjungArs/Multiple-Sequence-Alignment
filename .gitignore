@@ -1,0 +1,11 @@
+# ignore semua file
+*
+
+# kecuali beberapa file ini
+!Dokumen laporan
+!Dokumen laporan/Draft Skripsi v1.docx
+!Dokumen laporan/Tanjung Arswendo Yudha-11220910000043.pdf
+!Dokumen laporan/Seminar Proposal.pdf
+
+# git ignorenya sendiri
+!.gitignore
