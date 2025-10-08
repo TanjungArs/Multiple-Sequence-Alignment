@@ -1,5 +1,5 @@
 # ignore semua file
-*
+Dokumen laporan/*
 
 # kecuali beberapa file ini
 !Dokumen laporan
